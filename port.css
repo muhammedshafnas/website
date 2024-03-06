@@ -51,7 +51,6 @@
 #fs-frm [type="button"],
 #fs-frm [type="submit"],
 #fs-frm [type="reset"] {
-  width: auto;
   cursor: pointer;
   -webkit-appearance: button;
   -moz-appearance: button;
